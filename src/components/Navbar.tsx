@@ -25,9 +25,9 @@ function Navbar() {
                 className="w-6 h-6"
               />
               <div className="text-xl font-bold">
-                RENT
+                Street
                 <span className="text-secondary-500 font-light hover:!text-primary-300">
-                  IFUL
+                  Estates
                 </span>
               </div>
             </div>
