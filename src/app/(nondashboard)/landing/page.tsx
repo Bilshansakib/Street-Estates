@@ -12,6 +12,7 @@ const page = () => {
             <FeaturesSection />
             <DiscoverSection />
             <CallToActionSection />
+            <CallToActionSection />
             <FooterSection />
         </div>
     );
