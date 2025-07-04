@@ -14,6 +14,7 @@ const page = () => {
             <CallToActionSection />
             <CallToActionSection />
             <FooterSection />
+            <FooterSection />
         </div>
     );
 };
