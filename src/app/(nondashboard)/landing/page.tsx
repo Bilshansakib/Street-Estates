@@ -12,8 +12,6 @@ const page = () => {
             <FeaturesSection />
             <DiscoverSection />
             <CallToActionSection />
-            <CallToActionSection />
-            <FooterSection />
             <FooterSection />
         </div>
     );
